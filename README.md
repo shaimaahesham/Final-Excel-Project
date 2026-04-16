@@ -1,6 +1,6 @@
 # Adventure Works 2012 - Data Analysis & Dashboard
 
-[Final_Analysis_Dashboard.png]
+![Dashboard](Final_Analysis_Dashboard.png)
 
 
 ## 📋 Project Overview
