@@ -1,5 +1,8 @@
 # Adventure Works 2012 - Data Analysis & Dashboard
 
+[Final_Analysis_Dashboard.png]
+
+
 ## 📋 Project Overview
 
 A comprehensive data analysis project on Adventure Works 2012 dataset using Excel, focusing on **data modeling and power querying** rather than visual aesthetics. This project demonstrates the importance of proper data architecture and preprocessing in analytics.
